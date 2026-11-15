@@ -9,7 +9,7 @@
 </font>
 <br><br>
 <div align = "center">
-<img src = "images/GradeCalculatorCompleteModel.jpg" width = 500 vspace = 20>
+<img src = "images/GradeCalculatorCompleteModel.jpg" width = 750 vspace = 20>
 </div>
 <br><br>
 <p align="justify">
