@@ -1,4 +1,4 @@
-# Music Scale Generator Lab
+# Music Scale Generator Lab AP Create Task
 
 <font size="4">
     <strong>GUI Walkthrough for students taking AP Computer Science Principles.</strong>
