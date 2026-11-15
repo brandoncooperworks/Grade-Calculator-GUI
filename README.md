@@ -1,4 +1,4 @@
-# Music Scale Generator Lab
+# Music Scale Generator Lab AP Create Task
 
 <font size="4">
     <strong>GUI Walkthrough for students taking AP Computer Science Principles.</strong>
@@ -7,10 +7,11 @@
 <font size = "3">
     First-year programming students learn to code a graphic user interface in Python tKinter for the AP Create Performance Task.
 </font>
-
+<br><br>
 <div align = "center">
 <img src = "images/GradeCalculatorCompleteModel.jpg" vspace = 20>
 </div>
+<br><br>
 <p align="justify">
 In this in-class walkthrough, students learn how to code a graphic user interface (GUI) that calculates their grade average. This is a cumulative project that reviews all of what has been learned in the year and covers all of the requirements for submission to the AP Create Task which will be 30% of the students grade on the AP test.
 <br><br>
