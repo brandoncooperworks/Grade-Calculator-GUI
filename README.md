@@ -5,7 +5,7 @@
 </font>
 <br>
 <font size = "3">
-    First-year programming students learn to code a graphic user interface in Python tKinter for the AP Create Performance Task.
+    First-year programming students learn to code a graphic user interface from scratch in Python tKinter for the AP Create Performance Task.
 </font>
 <br><br>
 <div align = "center">
